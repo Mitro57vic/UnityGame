@@ -124,7 +124,7 @@ Diese Entscheidung ermöglicht es uns, ein unterhaltsames Spielprojekt zu realis
 | ---- | ----------- | ---------------- | ------------- | ------------------ |
 | 1.1  | 22.09.2023  | Filip Mitrovic   | 60 Min        |65 Min|
 | 1.2  | 22.09.2023  | Raul Gilardoni   | 60 Min        | 70 Min                 |
-| 1.3  | 22.09.2023  | Filip Mitrovic   | 60 Min        |        45 Min          |
+| 1.3  | 22.09.2023  | Filip Mitrovic   | 60 Min        |        50 Min          |
 | 2.1  | 22.09.2023  | Raul Gilardoni   | 60 Min        |     60 Min             |
 | 2.2  | 22.09.2023  | Lennard Bühler   | 60 Min        |      65 Min            |
 | 2.3  | 22.09.2023  | Lennard Bühler   | 60 Min        |   55 Min               |
