@@ -172,8 +172,9 @@ Diese Entscheidung ermöglicht es uns, ein unterhaltsames Spielprojekt zu realis
 | 8.1  | 22.09.2023  | Funktioniert   | Mitrovic+Kritzner |
 | 9.1  | 22.09.2023  | Funktioniert   | Mitrovic+Kritzner |
 | 10.1 | 22.09.2023  | Funktioniert   | Mitrovic+Kritzner |
+| 10.2 | 22.09.2023  | Funktioniert nicht  | Mitrovic+Kritzner |
 | 11.1 | 22.09.2023  | Funktioniert   | Mitrovic+Kritzner |
-| 12.1 | 22.09.2023  | Funktioniert nicht   | Mitrovic+Kritzner |
+| 12.1 | 22.09.2023  | Funktioniert   | Mitrovic+Kritzner |
 | 13.1 | 22.09.2023  | Funktioniert nicht   | Mitrovic+Kritzner |
 
 `Fazit:`
